@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "etnetwork",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/emrahturan/ETNetwork",
+      "state" : {
+        "revision" : "720df9050e282a9137da73e1de1c7460fd112be0",
+        "version" : "0.0.2"
+      }
+    }
+  ],
+  "version" : 2
+}
